@@ -1,4 +1,4 @@
-README
+
 Assignment2 
 The program contains two files one for the server and one for the client. To run the program follow these steps
 
